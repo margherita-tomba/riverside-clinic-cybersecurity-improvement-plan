@@ -58,3 +58,8 @@ The assessment focused on:
 - Vendor risk analysis
 - Incident response planning
 - Security improvement prioritization
+
+## Project Documents
+
+- [Executive Summary](06-executive-summary.md)
+- [References](references.md)
