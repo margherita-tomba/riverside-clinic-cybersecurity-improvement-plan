@@ -25,3 +25,6 @@ The assessment compared the clinic’s Current Profile against a realistic 6–1
 ## Conclusion
 
 The proposed improvements are intended to strengthen patient data protection, reduce operational disruption, and improve ransomware resilience while remaining achievable within the clinic’s staffing and budget limitations.
+
+The full document is available in:
+`documents/Executive_Summary.docx`
