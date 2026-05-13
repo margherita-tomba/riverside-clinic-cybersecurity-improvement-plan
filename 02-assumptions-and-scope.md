@@ -22,3 +22,6 @@ This project is based on a fictional healthcare clinic and does not include:
 - or technical vulnerability scanning.
 
 The project focuses primarily on governance, operational resilience, and practical cybersecurity improvements suitable for a small healthcare provider.
+
+The full document is available in:
+`documents/Project_Information.docx`
