@@ -65,6 +65,7 @@ The assessment focused on:
 - [Assumptions and scope](02-assumptions-and-scope.md)
 - [Current profile](03-current-profile.md)
 - [Target profile](04-target-profile.md)
+- [Gap Analysis](05-gap-analysis.md)
 - [Executive summary](06-executive-summary.md)
 - [References](references.md)
   
