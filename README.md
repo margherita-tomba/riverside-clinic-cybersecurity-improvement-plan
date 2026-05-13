@@ -61,5 +61,8 @@ The assessment focused on:
 
 ## Project Documents
 
-- [Executive Summary](06-executive-summary.md)
+- [Clinic scenario](01-clinic-scenario.md)
+- [Assumptions and scope](02-assumptions-and-scope.md)
+- [Executive summary](06-executive-summary.md)
 - [References](references.md)
+  
