@@ -63,6 +63,7 @@ The assessment focused on:
 
 - [Clinic scenario](01-clinic-scenario.md)
 - [Assumptions and scope](02-assumptions-and-scope.md)
+- [Current profile](03-current-profile.md)
 - [Executive summary](06-executive-summary.md)
 - [References](references.md)
   
