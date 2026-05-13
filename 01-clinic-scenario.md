@@ -14,10 +14,12 @@ Riverside Family Clinic provides outpatient primary care services to patients. I
 
 ## Key stakeholders
 
-- **Clinic owner/lead physician**: Accountable for risk acceptance and funding decisions
-- **Clinic manager**: Coordinates cybersecurity improvement activities
-- **Doctors and nurses**: Clinical users of EHR and patient data
-- **Receptionists**: Handle scheduling, patient intake, email, and billing information
-- **External IT provider**: Manages technical support, patching, backups, MFA, and monitoring
-- **EHR vendor**: Hosts and supports the electronic health record system
-- **Patients**: Depend on confidentiality, integrity, and availability of care-related information
+| Stakeholder | Responsibility |
+|---|---|
+| Clinic owner/lead physician | Accountable for risk acceptance and funding decisions |
+| Clinic manager | Coordinates cybersecurity improvement activities |
+| Doctors and nurses | Clinical users of EHR and patient data |
+| Receptionists | Handle scheduling, patient intake, email, and billing information |
+| External IT provider | Manages technical support, patching, backups, MFA, and monitoring |
+| EHR vendor | Hosts and supports the electronic health record system |
+| Patients | Depend on confidentiality, integrity, and availability of care-related information |
