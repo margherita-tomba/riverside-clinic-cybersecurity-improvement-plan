@@ -23,3 +23,6 @@ Riverside Family Clinic provides outpatient primary care services to patients. I
 | External IT provider | Manages technical support, patching, backups, MFA, and monitoring |
 | EHR vendor | Hosts and supports the electronic health record system |
 | Patients | Depend on confidentiality, integrity, and availability of care-related information |
+
+The full document is available in:
+`documents/Project_Information.docx`
