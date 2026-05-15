@@ -16,6 +16,10 @@ The assessment focused on:
 - operational continuity,
 - and incident response readiness.
 
+## Simplified Clinic Network Architecture
+
+![Simplified Clinic Network Architecture](images/clinic-network-architecture.png)
+
 ---
 
 ## Frameworks Used
