@@ -16,10 +16,6 @@ The assessment focused on:
 - operational continuity,
 - and incident response readiness.
 
-## Simplified Clinic Network Architecture
-
-![Simplified Clinic Network Architecture](images/clinic-network-architecture.png)
-
 ---
 
 ## Frameworks Used
@@ -27,6 +23,12 @@ The assessment focused on:
 - NIST Cybersecurity Framework (CSF) 2.0
 - NIST SP 1300 Small Business Quick-Start Guide
 - NIST SP 1301 Organizational Profiles
+
+---
+
+## Simplified Clinic Network Architecture
+
+![Simplified Clinic Network Architecture](images/clinic-network-architecture.png)
 
 ---
 
@@ -38,6 +40,8 @@ The assessment focused on:
 - Lack of tested restoration procedures
 - Vendor dependency
 - Incomplete incident response planning
+
+---
 
 ## Risk Assessment Matrix
 
