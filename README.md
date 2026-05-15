@@ -39,6 +39,8 @@ The assessment focused on:
 - Vendor dependency
 - Incomplete incident response planning
 
+## Risk Assessment Matrix
+
 ![Risk Assessment Matrix](images/risk-assessment-matrix.png)
 
 ---
