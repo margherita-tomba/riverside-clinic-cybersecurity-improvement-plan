@@ -43,9 +43,21 @@ The assessment focused on:
 
 ---
 
-## Risk Assessment Matrix
+## Risk Prioritization
 
 ![Risk Assessment Matrix](images/risk-assessment-matrix.png)
+
+---
+
+## NIST CSF Mapping
+
+![NIST Mapping](images/nist-csf-mapping.png)
+
+---
+
+## Recommended Security Improvements
+
+![Security Improvements](images/recommended-improvements.png)
 
 ---
 
